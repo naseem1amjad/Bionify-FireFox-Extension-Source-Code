@@ -1,0 +1,1 @@
+web-ext run --verbose --start-url http://localhost/bionik/sample-page.html
