@@ -1,4 +1,4 @@
-# Bionify: FireFox Extension Source Code
+# Bionify: FireFox Addon / Extension Source Code
 Bionify (Easy Reading on Web) Firefox extension / addon source code
 
 Source code of Firfox Extension/Addon developed by [Naseem Amjad](https://www.ajsoftpk.com/naseem_amjad/) (Software Developer)<br><br>
